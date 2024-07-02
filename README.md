@@ -20,6 +20,6 @@ Well I don't think I'll care. You can do whatever you want.
 
 ## Contact Info
 hysk13 - @hysk13 (I recommend not contacting trust)
-Project Link: https://github.com/hysk13/MemeIO
+Project Link: https://github.com/hysk13/TkMusicPlayer
 
 Aaaaand that's it! I'll see y'all on my next project's README :D
